@@ -1,1 +1,29 @@
 @import "tailwindcss";
+
+.scrollbar-css {
+  overflow-y: scroll; 
+}
+
+.scrollbar-css:hover {
+  cursor: grab; 
+}
+
+.scrollbar-css:active {
+  cursor: grabbing; 
+}
+
+
+.scrollbar-css::-webkit-scrollbar {
+  width: 8px;    
+}
+
+.scrollbar-css::-webkit-scrollbar-track {
+  background-color: #432004;
+  border-radius: 2px;        
+}
+
+.scrollbar-css::-webkit-scrollbar-thumb {
+  background-color: #78350F; 
+  border-radius: 0px;       
+  border: 1px solid none;
+}
