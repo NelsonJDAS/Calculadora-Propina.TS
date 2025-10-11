@@ -5,11 +5,7 @@
 }
 
 .scrollbar-css:hover {
-  cursor: grab; 
-}
-
-.scrollbar-css:active {
-  cursor: grabbing; 
+  cursor: pointer; 
 }
 
 
