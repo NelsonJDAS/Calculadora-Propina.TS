@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Calculadora-Propina.TS
 =======
+=======
+>>>>>>> 127a900c0064e2407f5f218737f7af105058c6b2
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -70,4 +73,7 @@ export default defineConfig([
   },
 ])
 ```
+<<<<<<< HEAD
 >>>>>>> 127a900 (.)
+=======
+>>>>>>> 127a900c0064e2407f5f218737f7af105058c6b2
